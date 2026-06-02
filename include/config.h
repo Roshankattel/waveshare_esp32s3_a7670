@@ -26,11 +26,6 @@
 
 #define RGB_PIN (38)
 
-#ifndef TINY_GSM_MODEM_SIM7670G
-#define TINY_GSM_MODEM_SIM7670G
-#endif
 
-#define MODEM_GPS_ENABLE_GPIO (4)
-#define MODEM_GPS_ENABLE_LEVEL (1)
 
 #endif // CONFIG_H
