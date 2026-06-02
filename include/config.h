@@ -12,6 +12,7 @@
 #define SDMMC_CMD (4)
 #define SDMMC_CLK (5)
 #define SDMMC_DATA (6)
+#define SD_CD_PIN (46)
 
 // I2C pins for MAX17048 fuel gauge
 #define BAT_SDA_PIN (3)
