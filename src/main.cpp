@@ -119,7 +119,6 @@ void loop()
 
     Serial.print("Battery Level: ");
     Serial.print(batteryLevel);
-    Serial.println("%");
 
     delay(1000);
   }
